@@ -1,0 +1,22 @@
+{
+  "name": "auth-svc",
+  "version": "1.0.0",
+  "description": "\"this is auth service for wordGame\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heytayoID/wordGame.git"
+  },
+  "keywords": [
+    "wordGame"
+  ],
+  "author": "\"aden trisna daud kurnia\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heytayoID/wordGame/issues"
+  },
+  "homepage": "https://github.com/heytayoID/wordGame#readme"
+}
